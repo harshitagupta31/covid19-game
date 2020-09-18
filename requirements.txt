@@ -1,1 +1,2 @@
-pygamge
+pip>=20.2.3
+pygamge>=1.9.6

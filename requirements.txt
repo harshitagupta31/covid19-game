@@ -1,2 +1,2 @@
-pygamge>=1.9.6
+pygamge>=1.9.3
 

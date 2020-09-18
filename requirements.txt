@@ -1,1 +1,1 @@
-pygamge>=1.9.4
+pygamge
